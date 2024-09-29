@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrine Sigdel</h1>
-<h3 align="center">A passionate a computer engineering student with a keen interest in web development. I love exploring new technologies and building innovative projects. Join me on my journey as I create and learn!</h3>
+<h3 align="center">A passionate computer engineering student with a keen interest in web development. I love exploring new technologies and building innovative projects. Join me on my journey as I create and learn!</h3>
 
 - 🌱 I’m currently learning **Express and Next.js**
 
